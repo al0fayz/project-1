@@ -1,0 +1,105 @@
+/* ###################################################
+    File Name: Skinks color styles
+	Template Name: Press
+	Created By: Shah Zobayer Ahmed
+	http://themencoder.com
+ #####################################################*/
+
+/* --- Backgrounds  --------------------- */
+::-moz-selection {
+  background-color: #2997ab;
+}
+::-webkit-selection {
+  background-color: #2997ab;
+}
+::-o-selection {
+  background-color: #2997ab;
+}
+::-khtml-selection {
+  background-color: #2997ab;
+}
+::-ms-selection {
+  background-color: #2997ab;
+}
+::selection {
+  background-color: #2997ab;
+}
+
+/* placeholder */
+::-webkit-input-placeholder {
+    color: #2997ab !important;
+}
+:-moz-placeholder {
+    /* Firefox 18- */
+    color: #2997ab !important;
+}
+::-moz-placeholder {
+    /* Firefox 19+ */
+    color: #2997ab !important;
+}
+:-ms-input-placeholder {
+    color: #2997ab !important;
+}
+/* background */
+.service_aera .logo span,.basic:hover:before,.basic li a:hover,.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open .dropdown-toggle.btn-primary,
+.news_box .news_title_box h2,.client_aera,.contact-info,.pull-right input,.basic:hover li a,.content__cta,
+.header_aera,.codrops-header h1:first-child,.service_aera,.project_box .filter_box ul li.active,.portfolio_detils,.basic h1,.basic::before,
+.nav-tabs li,.social .fa,.progress-bar,.team-member-profile .team-social,.carousel-indicators .active,.news_box .news_title_box,.client_aera
+.contact-info,.pull-right input,.map-conact-control #map-btn,.map-conact-control-btn #contact-btn,.back-to-top .fa,.boxgallery > nav span::before, .boxgallery > nav span::after,
+.basic li a,.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open .dropdown-toggle.btn-primary,
+.navbar.navbar-inverse.navbar-static-top .navbar-brand::first-letter,.about_widget a,.tempLayout ul .active-layout
+{
+    background: #2997ab
+}
+
+#flexiselDemo3 .logo span,.service_aera .logo span {
+    background: #2997ab url("../../images/cursor.png") repeat scroll center center;
+}
+
+/* color */
+.navbar.navbar-inverse.navbar-static-top a i,.navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > .active > a:focus,
+.codrops-header h1,.project_title,.project_box .filter_box ul li,.speacial_offer,.basic span,.tab_title,.nav-tabs .active a,.about_caption h3,
+.news_title,.team_title,.carousel-caption p,.news_box .news_title_box .fa,.stat i,.milestone-details,.map_title, a,.contact_icons .fa,
+.fun_facts_area .fact_title,.news_aera .news_title
+{
+    color:#2997ab
+}
+
+/* border-bottom 10px */
+.project_box .filter_box ul{
+    border-bottom: 10px solid #2997ab
+}
+/* border-top 10px */
+.nav-tabs{
+    border-top: 10px solid #2997ab
+}
+
+ /* border 1px solid */
+.basic, .standart, .advance, .ultimate,  .carousel-indicators li,.basic::before,.basic:hover:before,.carousel-indicators .active
+{
+ border: 1px solid #2997ab
+}
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open .dropdown-toggle.btn-primary,.btn-primary{
+    border-color: #2997ab
+}
+
+.map-conact-control #map-btn{
+    border: 2px solid #2997ab;
+}
+
+.team_aera .item .cmment_item img{
+    border: 10px solid #2997ab;
+}
+
+/*
+ *switcher style
+ */
+.switcherContent{
+    border-bottom: 1px solid #2997ab
+}
+.switcher .switcherContents header,.switcher .switcherShowHide,.tempLayout ul .active-layout,.tempLayout ul li:hover{
+    background: #2997ab;
+}
+.tempLayout ul li{
+    border: 1px solid  #2997ab
+}
